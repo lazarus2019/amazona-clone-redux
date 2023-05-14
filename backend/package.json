@@ -1,0 +1,27 @@
+{
+  "name": "amazona-clone-redux",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "First Commit",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazarus2019/amazona-clone-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazarus2019/amazona-clone-redux/issues"
+  },
+  "homepage": "https://github.com/lazarus2019/amazona-clone-redux#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
